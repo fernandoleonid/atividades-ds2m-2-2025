@@ -3,3 +3,4 @@
 ## Atividades
 1. Slide CSS 
 2. Slide Tailwind
+3. Trocar cor
