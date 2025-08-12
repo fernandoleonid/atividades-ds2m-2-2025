@@ -4,3 +4,5 @@
 1. Slide CSS 
 2. Slide Tailwind
 3. Trocar cor
+4. Galeria
+5. Funcionários
