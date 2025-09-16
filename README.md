@@ -4,8 +4,9 @@
 1. Slide CSS 
 2. Slide Tailwind
 3. Trocar cor
-4. Galeria
-5. Funcionários
-6. Produtos
-7. Consumo API - DOG
-8. [Consumo API](https://gist.github.com/fernandoleonid/2ee16538c2b72ccfcbb82547380497ab) - VIACEP
+4. Trocar Imagem
+5. Galeria
+6. Funcionários
+7. Produtos
+8. Consumo API - DOG
+9. [Consumo API](https://gist.github.com/fernandoleonid/2ee16538c2b72ccfcbb82547380497ab) - VIACEP
