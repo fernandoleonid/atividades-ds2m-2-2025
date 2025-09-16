@@ -7,4 +7,4 @@
 4. Galeria
 5. Funcionários
 6. Consumo API - DOG
-7. Consumo API - VIACEP
+7. [Consumo API](https://gist.github.com/fernandoleonid/2ee16538c2b72ccfcbb82547380497ab) - VIACEP
