@@ -6,3 +6,5 @@
 3. Trocar cor
 4. Galeria
 5. Funcionários
+6. Consumo API - DOG
+7. Consumo API - VIACEP
