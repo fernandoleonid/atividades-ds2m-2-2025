@@ -11,3 +11,4 @@
 8. Consumo API - DOG
 9. [Consumo API](https://gist.github.com/fernandoleonid/2ee16538c2b72ccfcbb82547380497ab) - [VIACEP](https://viacep.com.br/)
 10. Consumo API - [apicep](https://apicep.com/api-de-consulta/)
+11. [Consumo API Publicas ](./apipublicas.md)
